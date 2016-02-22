@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/Users/Jay/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jar="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-fb562abb4eb13f426505a30692b81c52ed9009e8.jar" />
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9c7aa348253d182c3d9f5aa27de851861d8b664d.jar" />
     </item>
     <item
-        jar="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jar="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-15e56419f6d10c29c88fb8e66713f1143e66cf92.jar" />
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes-5e23930f804ac8418b4fde3572c4944514dcb964.jar" />
     </item>
     <item
-        jar="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jar="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
-        <dex dex="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes-f67631ba917ab466e2cc35555073ec341e8491f8.jar" />
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes-87e32ff9fb84e29186f843ea98118c04bf8e8669.jar" />
     </item>
     <item
-        jar="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jar="/Users/Jay/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes-ce94b02a275f7aecfacdcf7d2a3adaa5fbb1e783.jar" />
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-90ebfd9759eb5bcf10a8fdbc5461eda1461540e4.jar" />
     </item>
     <item
-        jar="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jar="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes-0174499505c7aa5acfcdfec23c7e4164e66b39de.jar" />
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes-d89d9156848da0534c388cdc0050872d79b9aef2.jar" />
     </item>
 
 </items>

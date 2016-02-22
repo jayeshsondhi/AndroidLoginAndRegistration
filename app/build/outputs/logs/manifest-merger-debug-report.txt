@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:3:1-57:12
+ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:3:1-62:12
 	xmlns:android
 		ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:3:11-69
 	package
@@ -16,9 +16,12 @@ ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAnd
 uses-sdk
 ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:support-v4:21.0.3] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:support-v4:21.0.3] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
 MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/AndroidManifest.xml:3:5-72
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:10:9-38
 		INJECTED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml
@@ -32,11 +35,14 @@ ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAnd
 	android:name
 		ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:12:22-64
 application
-ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:14:5-55:19
+ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:14:5-60:19
 MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:support-v4:21.0.3] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:support-v4:21.0.3] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
 MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:18:9-41
 	android:allowBackup
@@ -97,3 +103,10 @@ ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAnd
 		ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:50:13-50
 	android:launchMode
 		ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:52:13-43
+meta-data#com.google.android.gms.version
+ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:55:9-57:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:56:13-58
+	android:value
+		ADDED from /Users/Jay/Downloads/AndroidLoginAndRegistration v2 2/AndroidLoginAndRegistration/app/src/main/AndroidManifest.xml:57:13-66
