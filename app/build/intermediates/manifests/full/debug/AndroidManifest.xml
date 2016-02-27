@@ -11,6 +11,10 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
 
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:name="info.androidhive.loginandregistration.app.AppController"
         android:allowBackup="true"
@@ -53,6 +57,25 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="info.androidhive.loginandregistration.activity.MarketInfo"
+            android:label="@string/title_activity_market_info" />
+        <activity
+            android:name="info.androidhive.loginandregistration.activity.ResearchInfo"
+            android:label="@string/title_activity_research_info" />
+        <activity
+            android:name="info.androidhive.loginandregistration.activity.Calendar"
+            android:label="@string/title_activity_calendar" />
+        <activity
+            android:name="info.androidhive.loginandregistration.activity.ContactList"
+            android:label="@string/title_activity_contact_list" />
+        <activity
+            android:name="info.androidhive.loginandregistration.activity.ScanContact"
+            android:label="@string/title_activity_scan_contact" />
+        <activity
+            android:name="info.androidhive.loginandregistration.activity.Reminders"
+            android:label="@string/title_activity_reminders" />
     </application>
 
 </manifest>

@@ -1,45 +1,136 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="${relativePackage}.${activityClass}" >
+    tools:context="${relativePackage}.${activityClass}"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center|right"
+        android:id="@+id/linearLayout2"
+        android:background="#02546e">
+
+        <ImageView
+            android:layout_width="301dp"
+            android:layout_height="80dp"
+            android:id="@+id/imageView"
+            android:src="@drawable/logo"
+            android:contentDescription="@string/logo" />
+
+        <ImageButton
+            android:id="@+id/btnLogout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/rsz_1exit"
+            android:background="#00000000"
+            android:contentDescription="m" />
+
+    </LinearLayout>
 
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:gravity="center|left"
         android:orientation="horizontal"
         android:id="@+id/linearLayout"
-        android:layout_alignParentTop="true"
-        android:weightSum="1">
+        android:weightSum="1"
+        android:gravity="center"
+        android:layout_gravity="center_vertical"
+        android:padding="10dp">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/welcome"
-            android:textSize="35dp" />
+            android:textSize="25sp"
+            android:id="@+id/textView"
+            android:textColor="#beae84" />
 
         <TextView
             android:id="@+id/name"
             android:layout_width="214dp"
             android:layout_height="wrap_content"
-            android:padding="10dp"
-            android:textColor="@color/lbl_name"
-            android:textSize="40sp" />
+            android:textColor="#beae84"
+            android:textSize="30sp"
+            android:padding="6dp" />
 
     </LinearLayout>
 
-    <Button
-        android:id="@+id/btnLogout"
+    <LinearLayout
+        android:orientation="horizontal"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:background="@color/btn_logut_bg"
-        android:text="@string/btn_logout"
-        android:textAllCaps="false"
-        android:textColor="@color/white"
-        android:textSize="15dp"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:background="#02546e"
+        android:padding="10dp">
 
-</RelativeLayout><!-- From: file:/Users/Jay/Downloads/AndroidLoginAndRegistration%20v2%202/AndroidLoginAndRegistration/app/src/main/res/layout/activity_main.xml -->
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton"
+            android:src="@drawable/marketicon"
+            android:background="#00000000"
+            android:layout_weight="2"
+            android:contentDescription="@string/marketicon" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton2"
+            android:layout_weight="2"
+            android:src="@drawable/researchicon"
+            android:background="#00000000" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#02546e"
+        android:padding="10dp">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton3"
+            android:src="@drawable/calendaricon"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="2"
+            android:background="#00000000" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton4"
+            android:layout_weight="2"
+            android:src="@drawable/contactsicon"
+            android:background="#00000000" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="#02546e"
+        android:padding="10dp">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton5"
+            android:src="@drawable/scancontact"
+            android:background="#00000000"
+            android:layout_weight="2" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton6"
+            android:layout_weight="2"
+            android:src="@drawable/reminders"
+            android:background="#00000000" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/Users/Jay/Downloads/AndroidLoginAndRegistration%20v2%202/AndroidLoginAndRegistration/app/src/main/res/layout/activity_main.xml -->

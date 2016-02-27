@@ -165,6 +165,12 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <!-- From: file:/Users/Jay/Downloads/AndroidLoginAndRegistration%20v2%202/AndroidLoginAndRegistration/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/Jay/Downloads/AndroidLoginAndRegistration%20v2%202/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
     <item name="dialog_fixed_width_major" type="dimen">320dp</item>
@@ -184,6 +190,10 @@
     <!-- From: file:/Users/Jay/Downloads/AndroidLoginAndRegistration%20v2%202/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/version.xml -->
     <eat-comment/>
     <integer name="google_play_services_version">8115000</integer>
+    <!-- From: file:/Users/Jay/Downloads/AndroidLoginAndRegistration%20v2%202/AndroidLoginAndRegistration/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Marketinfo">Marketinfo</string>
+    <string name="Researchinfoo">Researchinfoo</string>
     <!-- From: file:/Users/Jay/Downloads/AndroidLoginAndRegistration%20v2%202/AndroidLoginAndRegistration/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
@@ -253,7 +263,18 @@
     <string name="hint_email">Email</string>
     <string name="hint_name">Fullname</string>
     <string name="hint_password">Password</string>
+    <string name="jsknak">maftvgdh</string>
+    <string name="logo">logo</string>
+    <string name="logout">logout</string>
+    <string name="marketicon">marketicon</string>
     <string name="name">Fullname</string>
+    <string name="names">Full name</string>
+    <string name="title_activity_calendar">Calendar</string>
+    <string name="title_activity_contact_list">ContactList</string>
+    <string name="title_activity_market_info">MarketInfo</string>
+    <string name="title_activity_reminders">Reminders</string>
+    <string name="title_activity_research_info">ResearchInfo</string>
+    <string name="title_activity_scan_contact">ScanContact</string>
     <string name="welcome">Welcome</string>
     <!-- From: file:/Users/Jay/Downloads/AndroidLoginAndRegistration%20v2%202/AndroidLoginAndRegistration/app/src/main/res/values/styles.xml -->
     <eat-comment/>
